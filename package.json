@@ -1,0 +1,17 @@
+{
+  "name": "face-attendance",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.29",
+    "react": "^18",
+    "react-dom": "^18",
+    "googleapis": "^140.0.0",
+    "google-auth-library": "^9.0.0"
+  }
+}
